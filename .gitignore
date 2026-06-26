@@ -1,0 +1,14 @@
+# Environments
+venv/
+.venv/
+env/
+
+# Secrets
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Local FAISS index (so it regenerates fresh on deployment)
+faiss_index/

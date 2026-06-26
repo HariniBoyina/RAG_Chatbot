@@ -1,0 +1,11 @@
+streamlit
+pypdf
+langchain-text-splitters
+langchain-google-genai
+langchain-community
+langchain-classic
+faiss-cpu
+python-dotenv
+pymupdf
+google-genai
+pillow
